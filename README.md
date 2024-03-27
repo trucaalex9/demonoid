@@ -1,1 +1,6 @@
-# vue3-todolist
+# demonoid
+
+## Super project on Vue.js
+
+* npm install
+* npm run dev
